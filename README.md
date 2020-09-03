@@ -4,7 +4,7 @@ convert .fit to .gpx by batch
 Install GPSbabel in advance
 download all activities from strava 
 
-1.put fit2gpx.bat to export_****/activities directory   
-2.extract .gz to export_****/activivies directory  
+1.put fit2gpx.bat to export_<id>/activities directory   
+2.extract .gz to export_<id>/activivies directory  
 3.execute fit2gpx.bat
 
